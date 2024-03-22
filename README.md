@@ -22,7 +22,7 @@ The code performs the following operations:
 ### Key Functions
 
 ```markdown
-crop_image(im_for_crop): Detects and crops the face from an image.
+    crop_image(im_for_crop): Detects and crops the face from an image.
 ```
 ```markdown
     get_similarity(file_name1, file_name2): Calculates the similarity score between two images.
